@@ -2,8 +2,8 @@
 title: Compendium Browser
 description: An integrated content browser with support for both pre-configured and custom content
 author: Phillip Best
-image: https://github.com/Pjb518/OBR-extensions/blob/main/compendium-browser/assets/banner.png
-icon: https://github.com/Pjb518/OBR-extensions/blob/main/compendium-browser/assets/icon.svg
+image: https://raw.githubusercontent.com/Pjb518/OBR-extensions/refs/heads/main/compendium-browser/assets/banner.png
+icon: https://raw.githubusercontent.com/Pjb518/OBR-extensions/refs/heads/main/compendium-browser/assets/icon.svg
 tags:
   - tool
   - content-pack
